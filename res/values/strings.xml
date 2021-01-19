@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Face PCA</string>
+    <string name="result_desc">Captured face</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="result_text">Prepoznava je v teku</string>
+    <string name="assets_face_folder">faces</string>
+    <string name="originals_face_folder">originals</string>
+    <string name="cropped_face_folder">cropped</string>
+</resources>
